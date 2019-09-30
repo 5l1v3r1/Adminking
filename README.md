@@ -10,7 +10,7 @@ $ apt install python3
 
 $ apt install git
 
-$ git clone https://github.com/vpphacker/Adminking.git
+$ git clone https://github.com/ShekharSumanPro/Adminking.git
 
 $ cd Adminking
 
@@ -18,7 +18,7 @@ $ python3 adminlink.py
 
 Now this tool will guide you....
 
-Kali Linux git clone https://github.com/vpphacker/AdminKing.git
+Kali Linux git clone https://github.com/ShekharSumanPro/Adminking.git
 
 cd AdminKing
 
